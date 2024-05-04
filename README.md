@@ -1,5 +1,5 @@
 # Hybrid-Gaussian-Spectral-Clustering-HGSC
-A clustering algorithm that leverages Gaussian Mixture Models (GMM) and Spectral Clustering to identify clusters.
+A novel clustering algorithm that leverages Gaussian Mixture Models (GMM) and Spectral Clustering to identify clusters.
 
 The main steps of the algorithm can be summarized as follows:
 
